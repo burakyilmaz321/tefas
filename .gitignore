@@ -3,3 +3,5 @@ build
 npm-debug.log
 .env
 *.png
+python/__pycache__/*
+*.ipynb
